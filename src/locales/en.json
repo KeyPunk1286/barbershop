@@ -1,0 +1,87 @@
+{
+  "header": {
+    "services": "services",
+    "masters": "masters ",
+    "about": "about us",
+    "contacts": "contact",
+    "entry": "entry",
+    "login": "login",
+    "logout": "logout",
+    "dateSpan": "date of appointment:",
+    "masterSpan": "your master:",
+    "serviceSpan": "service:",
+    "popupButton": "closed",
+    "popapNote": "your entry will disappear after you visit the master."
+  },
+  "calendar": {
+    "january": "january",
+    "february": "february",
+    "march": "march",
+    "april": "april",
+    "may": "may",
+    "june": "june",
+    "july": "july",
+    "august": "august",
+    "september": "september",
+    "october": "october",
+    "november": "november",
+    "december": "december",
+    "sun": "sun",
+    "mon": "mon",
+    "tue": "tue",
+    "wed": "wed",
+    "thu": "thu",
+    "fri": "fri",
+    "sat": "sat"
+  },
+  "entryView": {
+    "master": "master",
+    "buttonSubmit": "date submit",
+    "placeholder": "phone number",
+    "masterTitle": "choose masters:",
+    "serviceTitle": "choose service",
+    "dateTitle": "select a date",
+    "telTitle": "Enter a phone number for callback",
+    "popup": "To create an appointment, you need to choose a master, select a service, pick a date, and provide your phone number for callback.",
+    "butonPopup": "fill in the fields"
+  },
+  "introduce": {
+    "title": "Your Path to the Ideal Outer Appearance: BarberShop - Beyond the Ordinary!"
+  },
+  "servicesComponent": {
+    "work": "working hours of the barber club",
+    "time": "without weekends",
+    "street": "portova Street",
+    "button": "make an appointment",
+    "cartOne": "FIRST MEN'S HAIR SALON",
+    "cartTwo": "STRENGTHENING TRUE MALE VALUES",
+    "cartThree": "CUTTING AND SHAVING WITH CARE"
+  },
+  "barberComponent": {
+    "title": "MEN'S BARBERSHOP"
+  },
+  "mastersComponent": {
+    "title": "OUR MASTERS",
+    "masterOne": "Yuri - Trim with Thoughtfulness:",
+    "masterTwo": "Roman - Your Look in My Hands:",
+    "masterThree": "Volodymyr - Every Hair Has Its Story:",
+    "masterFoure": "Ihor - Tranquility and Style:",
+    "yuriTxt": "Professionalism and meticulous attention to detail - that's our creed. I always strive to provide you with a hairstyle that distinctly complements your style and individuality.",
+    "romanTxt": "Creative and inventive, I love experimenting with haircuts and creating unique styles. Visit me, and together we'll find a look that suits you perfectly.",
+    "volodymyrTxt": "An experienced master who understands and respects each strand of hair. My goal is to make your appearance impeccable and express your personality through an individualized approach to haircuts.",
+    "ihorTxt": "In my hands, your look will become sophisticated and stylish. I believe that every client deserves quality service and a hairstyle that accentuates their uniqueness. Entrust your appearance to me, and you will be satisfied."
+  },
+  "aboutUsComponent": {
+    "title": "ABOUT US",
+    "info": "BarberShop emerged as a synthesis of traditional barbering and a creative approach to fashion. With great passion and respect for our clients, we've created a space where each haircut is a creative act, and every client is a part of our family.",
+    "infoPartTwo": "At BarberShop, we believe in the true power of appearance. Our skilled craftsmen not only cut hair but also create unparalleled looks that highlight your style and individuality."
+  },
+  "contactComponent": {
+    "title": "Contact Information for the Barber Shop"
+  },
+  "loginPage": {
+    "title": "Log in to make appointments and view your bookings.",
+    "login": "login",
+    "goBack": "home page"
+  }
+}
